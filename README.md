@@ -1,5 +1,5 @@
 # webextensions-examples
-
+Sample
 [https://github.com/mdn/webextensions-examples](https://github.com/mdn/webextensions-examples)
 
 Maintained by the [MDN team at Mozilla](https://wiki.mozilla.org/MDN).
